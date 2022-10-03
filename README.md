@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Screenshot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt text](https://github.com/dkthecoder/scrimba-react-infocard-project/blob/master/Web%20capture_4-10-2022_03552_localhost.jpeg)
 
 ## Available Scripts
 
